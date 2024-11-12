@@ -311,13 +311,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 
-- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [X] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
