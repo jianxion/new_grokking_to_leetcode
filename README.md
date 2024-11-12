@@ -297,9 +297,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Depth First Search
 
-- [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- [X] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
