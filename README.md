@@ -59,9 +59,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Fast and Slow Pointers
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [X] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
@@ -319,7 +319,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [X] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
 ## Tree Breadth First Search
 
