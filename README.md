@@ -125,15 +125,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-## Top K Elements
+## Top K Elements (using heap)
 
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [X] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
