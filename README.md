@@ -113,9 +113,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## K-way merge
 
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
-- [ ] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
+- [X] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
 - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
