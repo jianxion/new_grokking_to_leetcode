@@ -159,15 +159,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
 
-- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [X] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [X] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-- [ ] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
+- [X] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
 
 ## Greedy Techniques
 
