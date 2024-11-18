@@ -103,9 +103,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Two Heaps
 
-- [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
+- [X] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- [X] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 - [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
@@ -117,7 +117,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
-- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [X] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
