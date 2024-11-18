@@ -209,11 +209,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [X] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [X] [Word Break](https://leetcode.com/problems/word-break/)
 
 - [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
