@@ -313,9 +313,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
-- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+- [X] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [X] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
 - [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
@@ -323,9 +323,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [X] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 - [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
