@@ -285,11 +285,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Graphs
 
-- [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+- [x] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 - [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
 
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph)
 
 - [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 
@@ -339,15 +339,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Trie
 
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+- [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
-- [ ] [Replace Words](https://leetcode.com/problems/replace-words/)
+- [x] [Replace Words](https://leetcode.com/problems/replace-words/)
 
-- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [x] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 - [ ] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 
