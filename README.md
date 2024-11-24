@@ -73,17 +73,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
-- [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
@@ -247,13 +247,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Compilation Order]()?
 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [X] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [X] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 - [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
