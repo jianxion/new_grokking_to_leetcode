@@ -155,7 +155,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
-- [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ## Subsets
 
@@ -275,13 +275,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
-- [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
+- [x] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
-- [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- [x] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Graphs
 
@@ -405,15 +405,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Custom Data Structures
 
-- [ ] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
+- [x] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
-- [ ] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [x] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
-- [ ] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [x] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-- [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [x] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
 
 - [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
@@ -433,9 +433,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Challenge Yourself
 
-- [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [x] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+- [x] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
